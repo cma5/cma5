@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cma5
 - 👀 I’m interested in making music and programming all sorts of stuff
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C & C++
 - 💞️ I’m looking to collaborate on music related projects
 - 📫 How to reach me: mar.schnugg@googlemail.com
 
