@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cma5
 - 👀 I’m interested in making music and programming all sorts of stuff
-- 🌱 I’m currently learning C & C++
-- 💞️ I’m looking to collaborate on music related projects
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: hello@cma5.com
 
 <!---
